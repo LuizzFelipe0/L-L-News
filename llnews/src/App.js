@@ -1,17 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import './App.css';
-import './index.css';
+import { Rotas } from "./Routes";
 
 function App() {
 
   return (
     <>
-
-    <h1>oi</h1>
-
-
+      <Rotas />
     </>
   );
 }
-
-export default App;
+export default App

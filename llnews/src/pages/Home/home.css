@@ -1,0 +1,13 @@
+.container{
+        background-image: 
+        url(
+      "https://c3a4x5w6.rocketcdn.me/blog/app/uploads/2021/07/Total-Addressable-Market-TAM.png.webp");
+        background-size: "cover";
+        height: 100vh;
+        margin-top: 5%;
+        font-size:50px;
+        background-repeat:no-repeat; 
+        align-items: center;
+        
+      
+}
